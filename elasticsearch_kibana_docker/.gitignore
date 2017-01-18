@@ -1,0 +1,13 @@
+
+# ignore these
+
+# mac osx
+.DS_Store
+.DS_Store?
+
+# python 
+**/*.pyc
+*.pyc
+
+# raw data
+data_preprocessing/airports.csv
