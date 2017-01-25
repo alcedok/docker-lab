@@ -1,5 +1,5 @@
 ## Docker Elasticsearch Kibana 
-<p align="center"><img src= "https://github.com/alcedok/elasticsearch_kibana_docker/blob/master/images/logos.png" width="282" height="240"></p>
+<p align="center"><img src= "https://raw.githubusercontent.com/alcedok/docker-lab/master/elasticsearch_kibana_docker/images/logos.png" width="282" height="240"></p>
 
 ### Summary
 
@@ -56,4 +56,4 @@ Below is an example dashboard:
  - Total count of airports
 
 
-<img src= "https://github.com/alcedok/elasticsearch_kibana_docker/blob/master/images/dashboard.png">
+<img src= "https://raw.githubusercontent.com/alcedok/docker-lab/master/elasticsearch_kibana_docker/images/dashboard.png">
